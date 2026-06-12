@@ -74,7 +74,7 @@ const bayu = {
 
 <div align="center">
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -84,8 +84,8 @@ const bayu = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/YOUR_REPO_1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/YOUR_REPO_2)
 
 </div>
 
