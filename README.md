@@ -80,7 +80,7 @@ const bayu = {
 
 <div align="center">
 
-![Tetris animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-tetris.svg)
+![Tetris animation](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/blob/output/github-contribution-grid-tetris.svg)
 
 </div>
 
