@@ -24,11 +24,7 @@
 ```js
 const bayu = {
   name: "Bayu Muhamad Arib Irfani",
-  role: "Frontend Developer",
   location: "🇮🇩 Indonesia",
-  stack: ["PHP", "Laravel", "JavaScript", "TypeScript"],
-  currentFocus: "Building seamless & beautiful web experiences",
-  funFact: "I debug with coffee ☕ and lo-fi music 🎵"
 };
 ```
 
@@ -77,19 +73,6 @@ const bayu = {
 ![Snake animation](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/YOUR_REPO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/YOUR_REPO_2)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
