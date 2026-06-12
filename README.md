@@ -52,7 +52,7 @@ const bayu = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
