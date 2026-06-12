@@ -74,6 +74,18 @@ const bayu = {
 
 </div>
 
+---
+
+## 🧱 Tetris Contribution
+
+<div align="center">
+
+![Tetris animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-tetris.svg)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
