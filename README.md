@@ -49,7 +49,7 @@ const bayu = {
 
 <div align="center">
 
-![Pac-Man animation](https://raw.githubusercontent.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/output/pacman.svg)
+![Pac-Man animation](https://raw.githubusercontent.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/refs/heads/output/pacman.svg)
 
 </div>
 
