@@ -10,13 +10,6 @@
 ```
 
 # 👾 Bayu Muhamad Arib Irfani
-
-**`Frontend Developer | Crafting Pixels into Experience`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Laravel+%2B+JavaScript+Enthusiast+%E2%9A%A1;Building+Clean+%26+Elegant+UI+%F0%9F%8E%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🌌 About Me
@@ -76,11 +69,11 @@ const bayu = {
 
 ---
 
-## 🧱 Tetris Contribution
+## 🟡 Pac-Man Contribution
 
 <div align="center">
 
-![Tetris animation](https://github.com/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/2503010123-BAYU-MUHAMAD-ARIB-IRFANI/blob/output/github-contribution-grid-tetris.svg)
+![Pac-Man animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman.svg)
 
 </div>
 
