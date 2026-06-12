@@ -1,4 +1,4 @@
-<div align="cente">
+<div align="center">
 
 ```
 ██████╗  █████╗ ██╗   ██╗██╗   ██╗
@@ -64,7 +64,7 @@ const bayu = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=2503010123-BAYU-MUHAMAD-ARIB-IRFANI&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF)
 
 </div>
 
